@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Hadith
+
+  Created by Peerbits Solution on 06/09/12.
+  Copyright (c) 2012 peerbits@gmail.com. All rights reserved.
+*/
+"TITLE" = "French";
+"key1" = "Hadiths";
+"key2" = "Biographies des";
+"key3" = "rapporteurs";
+"key4" = "Rechercher";
+"key5" = "Favoris";
+"key7" = "Ces Hadiths sont tirés de l'Authentique Hadiths d'Al Bukhari.";
+"key8" = "Les rapporteurs de Hadiths";
+"key9" = "hadith disponible / Nombre de favoris:";
+"key10" = "Rapporté Par:";
+"key11" = "resultats dan";
+"key12" = "livre";
+"key13" = "Tapez un mot pour rechercher les hadiths correspondants";
+"key14" = "Selon";
+"key15" = "livres";
+"key16" = "Aucun favoris n'a été ajouté";
+"set1" = "Noter I'application";
+"set2" = "Partager avec un proche";
+"set3" = "Signaler une erreur";
+"set4" = "A propos";
+"set5" ="Get Latest Updates";
+"set6" = "Réglages";
+"set7" = "Malgres le temps et un maximum de precautions, il se peut qu'une erreur se soit glisse dans un hadith.Merci de nous la signaler. Merci de nous communiquer des infomations pour identifier cette erreur:<p><span style=\"text-decoration: underline;\"><em>Livre:</em></span></p><p><span style=\"text-decoration: underline;\"><em>Hadith numero:</em></span></p><p><span style=\"text-decoration: underline;\"><em>Erreur:</em></span></p>";
+"set8" = "L'intégrale du Sahih Bukhari en français totalement gratuit!";
